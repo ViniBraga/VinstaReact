@@ -6,7 +6,7 @@ export default class Header extends Component {
         return (
         <header className="header container">
           <h1 className="header-logo">
-            Vnsta
+            Vnstagram
           </h1>
 
           <form className="header-busca">
